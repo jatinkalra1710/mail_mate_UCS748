@@ -26,7 +26,7 @@ In this lab the assistant is called **MailMate**. It can read the inbox, search 
 
 ## How it works
 
-<p align="center"><img src="docs/workflow.png" alt="LangGraph workflow: baseline, attacker, target, judge, defender, final check" width="260"></p>
+<p align="center"><img src="workflow.png" alt="LangGraph workflow: baseline, attacker, target, judge, defender, final check" width="260"></p>
 
 | Role | Model | What it does |
 |---|---|---|
